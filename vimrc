@@ -1075,3 +1075,5 @@ map <leader>cp :cd ~/Desktop/PlurkGit/trunk<cr>
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 set makeprg=gcc\ -g\ -ansi\ -Wall\ -o\ %<\ %
 " => Compile }}}
+"
+" Hello github
